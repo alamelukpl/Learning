@@ -18,6 +18,7 @@ public class Calculator {
 		int z;
 		z = x+y;
 		return z;
+		System.out.println("Adding 2 numbers");
 		
 	}
 	
