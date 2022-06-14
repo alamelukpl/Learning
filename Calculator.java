@@ -10,6 +10,7 @@ public class Calculator {
 	{
 		 c = a+b;
 		 System.out.println(c);
+		System.out.println("Adding numbers");
 	}
 	
 	public int addition(int x,int y,int v)
