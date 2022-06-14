@@ -44,10 +44,6 @@ public class Calculator {
 		return a;
 	}
 	
-	public int subtraction(double x,int y)
-	{
-		return a;
-	}
 	
 	
 	public static void main(String[] args) {
